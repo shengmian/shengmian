@@ -33,13 +33,13 @@
         "info": {
             "code": {
                 "china": "X-ICP备XXXXXXXXXX号",
-                "moegov": "萌ICP备XXXXXXXX号"
+                "moegov": "萌ICP备20250113号"
             },
             "link": {
                 "china": "https://beian.miit.gov.cn",
-                "moegov": "https://icp.gov.moe/?keyword=xxxxxxxx"
+                "moegov": "https://icp.gov.moe/?keyword=20250113"
             }
         },
-        "enable": ["moegov", "china"]
+        "enable": ["moegov"]
     }
 }
