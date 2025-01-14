@@ -29,7 +29,7 @@
                 "email": "javascript:showEmail()"
             },
             "icon": {
-                "qq": "fa-brands fa-bilibili",
+                "qq": "https://wiki.connect.qq.com/wp-content/uploads/2021/01/icon_for_ios7-374x1024.png",
                 "qqgroup": "fa-brands fa-github",
                 "email": "fa-solid fa-envelope"
             },
